@@ -1,0 +1,5 @@
+server:
+  servlet:
+    context-path: /backend
+service:
+  dns: http://internal-ma-hashimotoysn-ecs-alb-private-657585998.ap-northeast-1.elb.amazonaws.com/
